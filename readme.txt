@@ -7,3 +7,4 @@ Git tracks changes.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.g
 New Dev For file
+new dev branch in the new folder.
